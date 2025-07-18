@@ -39,5 +39,10 @@ streamlit run minimal_app.py
 - สามารถรีเฟรชข้อมูลรถยนต์หรือทดสอบ Spark ได้จาก sidebar
 - หากไม่มีไฟล์ Book1.csv จะใช้ข้อมูลตัวอย่างแทน
 
+## Screen short
+
+![alt text](image.png)
+![alt text](image-1.png)
+
 ## License
 MIT

@@ -373,6 +373,7 @@ def main():
             occupation = st.selectbox(
                 "Occupation",
                 ["Employee", "Business Owner", "Freelancer", "Government Officer", "Others"]
+                ["ธุรกิจส่วนตัว","ข้าราชการ","พนักงานบริษัทเอกชน","พนักงานรัฐวิสาหกิจ"]
             )
             
             st.markdown("### 🚨 Fraud Alerts")
